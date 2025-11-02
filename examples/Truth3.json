@@ -1,0 +1,35 @@
+{
+    "balance_forward":24697.85,
+    "billing_period_start_date":"03/04/2024",
+    "billing_period_end_date":"04/02/2024",
+    "kwh_usage_on_peak":14208,
+    "kwh_usage_off_peak":40320,
+    "kwh_usage_total":54528,
+    "kw_usage":114,
+    "kvs_usage":null,
+    "power_factor":null,
+    "supply_charges_kwh":{
+        "Supply":7595.75
+    },
+    "supply_charges_kw_kva":null,
+    "delivery_charges_kwh":{
+        "Transmission Peak":533.51,
+        "Transmission Off-Peak":339.49,
+        "Revenue Decoupling Peak":11.37,
+        "Revenue Decoupling Off-Peak":32.26,
+        "FMCC Charge Peak":84.68,
+        "FMCC Charge Off-Peak":53.63,
+        "Comb Public Benefit Chrg":398.05
+    },
+    "delivery_charges_kw_kva":{
+        "Prod/Trans Dmd Chrg":677.16,
+        "Local Delivery Demand Chrg":1074.08,
+        "Local Delivery Improvements":164.39,
+        "Prod/Trans CTA Dmd Chrg":-18.24
+    },
+    "sales_tax":702.70,
+    "late_fees":246.98,
+    "fixed_fees":270.00,
+    "misc":null,
+    "total_current_charges":12165.81
+}

@@ -1,0 +1,157 @@
+Total
+                                             Amount Due           $3,073.44                                             by 03/01/24Account Number:   5190 471 4045
+Statement Date:   02/02/24                            Amount Due On 01/31/24                                  -$123,466.90
+Service Provided To:                                            Last Payment Received                                           $0.00
+BOMBARDIER AVIATION SERVICES                          Balance Forward                                          -$123,466.90
+PO;5700043591 Line 1                                 Total Current Charges                                      $126,540.34
+
+
+
+ Electric Usage History - Kilowatt Hours (kWh)           Current Charges for Electricity
+
+  kWh/Day                                                     Supply                        Delivery
+                                            $1,316.39             $1,582.50
+
+                                                                                          Cost of electricity from                         Cost to deliver electricity
+                                                                          CONSTELLATION NEWENERGY                        from Eversource
+                                                                                              C&I
+
+
+
+
+
+                                                                                                      Your electric supplier is
+
+                                                                                                          CONSTELLATION NEWENERGY C&I
+                                                                                                         1001 LOUISIANA ST
+                                                                                                          STE 2300
+ Electric Usage Summary                                                                HOUSTON844-636-3749TX 77002-5089
+
+   This month your       This month you used
+   average daily       94.5% less
+   electric use was       than at the          94.5
+                    same time last year         USAGE  326.0 kWh
+
+
+
+  News For You
+
+  We know you count on us every day for the energy you need, especially as you use energy to keep warm. We can help you manage your energy use and bill this
+   winter and beyond. Visit Eversource.com/winter-bill.
+
+
+
+                                        Remit Payment To: Eversource, PO Box 56002, Boston, MA 02205-6002
+                                                                                                                                                                       CE_240202PROD.TXT
+
+                                                                                                Please make your check payable to Eversource and consider adding $1 for Operation Fuel.
+
+                                                                                       You can also add $2 or $3 when paying your bill online. 100% of your tax-deductible donation
+
+                                                                                                    provides energy assistance grants. If mailing, please allow up to 5 business days to post.
+
+                                                     Total Amount Due
+ Account Number:   5190 471 4045                                           by 03/01/24              $3,073.44  Non-residential and residential non-hardship customers may be
+  subject to a 1.00% late payment charge if the “Total Amount Due”
+  is not received by 03/01/24.                     Amount Enclosed
+
+
+
+
+
+                                                                          Eversource
+                                                    PO Box 56002
+        BOMBARDIER AVIATION SERVICES                                                                             Boston, MA 02205-6002
+       BLDG 85-173
+        BRADLEY INTERNATIONAL AIRPORT
+       WINDSOR LOCKS CT 06096
+
+
+                                         5190471404540 0003073441 0126540345
+Total Amount Due
+                                             by 03/01/24Account Number:   5190 471 4045                            $3,073.44
+Customer name key: BOMB
+Statement Date:   02/02/24
+Service Provided To:                                                  Electric Account Summary
+BOMBARDIER AVIATION SERVICES                         Amount Due On 01/31/24                                          -$123,466.90
+                                                                          Last Payment Received                                                   $0.00
+                                                                    Balance Forward                                                  -$123,466.90
+Svc Addr: BEACON HILL RD
+                                                                         Current Charges/Credits
+        WINDSOR LOCKS CT 06096
+                                                                                        Electric Supply Services                                            $1,316.39Serv Ref: 622872006                       Bill Cycle: 02
+Service from 01/03/24 - 02/01/24        29 Days               Delivery Services                                                  $1,582.50
+Next read date on or about: Mar 04, 2024                          Other Charges or Credits                                        $123,641.45
+                                                                                  Total Current Charges                                              $126,540.34
+   Meter        Current       Previous       Current      Reading
+  Number       Read        Read        Usage        Type         Total Amount Due                                                   $3,073.44
+
+890478922    45850     44905       945       Actual
+Cust provided ID: BOMBARDIER 85/185                                         Total Charges for Electricity
+Total Demand Use = 59.80 kW
+945 X Meter Constant of 10 = 9,450 Billed Usage                                   Supplier
+Monthly kWh Use                                           CONSTELLATION NEWENERGY
+  Feb     Mar      Apr     May     Jun       Jul      Aug        Service Reference: 622872006
+166565  172442  174777  188962  196223  203286  237941     Supply                            9450.00kWh X $0.13930         $1,316.39
+  Sep      Oct      Nov     Dec      Jan      Feb                  Subtotal Supplier Services                                             $1,316.39
+
+200289  199558   8130    8250    9570    9450
+                                                                       Delivery
+Contact Information                                               (RATE 30A-DELIVERY)
+Emergency: 800-286-2000                                                Service Reference: 622872006
+www.eversource.com                                                   Transmission Demand Chrg             57.80KW X $10.46000           $604.59
+Pay by Phone: 888-783-6618
+                                                                          Fixed Monthly Charge                                                  $44.00
+Customer Service: 888-783-6617
+                                                                         Local Delivery                      9450.00kWh X $0.01843           $174.16
+                                                                         Local Delivery Demand Chrg             57.80KW X $9.16000           $529.45
+                                                                         Local Delivery Improvements             57.80KW X $2.27000           $131.21
+                                                               Revenue Decoupling                 9450.00kWh X $0.00080             $7.56
+                                                            CTA Demand Chrg                    57.80KW X $-0.13000             -$7.51
+                                                    FMCC Charge                      9450.00kWh X $0.00288            $27.22
+                                                     Comb Public Benefit Chrg             9450.00kWh X $0.00760            $71.82
+                                                                            Subtotal Delivery Services                                             $1,582.50
+                                                                           Total Cost of Electricity                                               $2,898.89
+
+
+
+
+
+                                                                                                                                                                       CE_240202PROD.TXT
+Total Amount Due
+                                             by 03/01/24Account Number:   5190 471 4045                            $3,073.44
+Customer name key: BOMB
+Statement Date:   02/02/24                                     Continued from previous page...
+Service Provided To:
+BOMBARDIER AVIATION SERVICES
+                                                                   Other Charges or Credits
+                                                                    Balance Transfer Jan 10                                            $123,466.90
+Continued from previous page...                                    6.35% CT Sales Tax after Exemption of $150.00
+                                                          CT Sales Tax Supplier                                                  $83.59
+Supply Rate                                                          CT Sales Tax Delivery                                                   $90.96
+Dollars / kWh
+                                                                            Subtotal Other Charges or Credits                                    $123,641.45
+
+
+                                                                           Total Current Charges                                            $126,540.34
+
+
+
+
+
+Demand Profile
+
+Max. Demand
+
+
+
+
+
+Important Messages About Your Account
+Thank you for participating in the Online Bill and Payment Service.
+
+
+
+
+
+                                                                                                                                                                       CE_240202PROD.TXT

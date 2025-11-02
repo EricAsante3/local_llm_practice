@@ -1,12 +1,24 @@
 from llama_cpp import Llama
 import json
+import os
+file_path = os.path.expanduser("~/Documents/Projects/local_llm/local_llm_practice")
+
+base_path = os.path.join("/media", "eric", "GASSS")
+model_file = os.path.join(base_path, "models", "NuExtract-2.0-8B-Q8_0.gguf")
+
+with open(file_path + "/examples/Original3.txt", "r", encoding="utf-8") as f:
+    text_variable = f.read()
+
+with open(file_path + "/examples/Truth3.json", "r", encoding="utf-8") as f:
+    json_variable = json.load(f)
 
 def extract_document_to_json(document_text, schema_definition):
     # Initialize the LLaMA model
     llm = Llama(
-        model_path="./models/mistral-7b-instruct-v0.2.Q4_K_M.gguf",
+        model_path= model_file,
         chat_format="chatml",
-        n_ctx=32768,
+        n_ctx=41000,
+        n_gpu_layers = 12,
         verbose=False
     )
 
@@ -24,6 +36,7 @@ Your task is to:
 2. Populate the required values using the input invoice text.
 
 General tips:
+
 - Do not include fixed charges in Supply or Delivery sections.
 - When a charge has an allocated month range, format it as: "Charge Name (MM/DD/YY-MM/DD/YY)".
 - Don't include Delivery or Supplier SubTotals.
@@ -137,6 +150,14 @@ Return NONE if no charges are listed.
             
 SCHEMA DEFINITION:
 {json.dumps(schema_definition, indent=2)}
+
+Here is a example:
+
+Input Document
+"{text_variable}"
+
+Expected Output:
+{json.dumps(json_variable, indent=2)}
 
 RULES:
 - Extract only the information present in the document

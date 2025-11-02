@@ -1,0 +1,46 @@
+{
+  "total_current_charges": 15063.55,
+  "balance_forward": 12517.75,
+  "billing_period_start_date": "06/03/24",
+  "billing_period_end_date": "07/03/24",
+  "kwh_usage_on_peak": 18432,
+  "kwh_usage_off_peak": 48384,
+  "kwh_usage_total": 60134.4,
+  "total_demand_use_kw": 150.9,
+  "kva_usage": null,
+  "power_factor": null,
+  "supply_charges_kwh": {
+    "Supply": 8376.72
+  },
+  "supply_charges_kw_kva": {
+    "Prod/Trans Dmd Chrg": 806.71,
+    "Local Delivery Demand Chrg": 1180.19,
+    "Local Delivery Improvements": 180.63,
+    "Prod/Trans CTA Dmd Chrg": -21.73,
+    "FMCC Charge Peak": 98.87,
+    "FMCC Charge Off-Peak": 57.92,
+    "Comb Public Benefit Chrg": 438.98
+  },
+  "delivery_charges_kwh": {
+    "Transmission Peak": 622.91,
+    "Transmission Off-Peak": 366.65,
+    "Revenue Decoupling Peak": 13.27,
+    "Revenue Decoupling Off-Peak": 34.84,
+    "FMCC Charge Peak": 146.17,
+    "FMCC Charge Off-Peak": 86.08,
+    "Comb Public Benefit Chrg": 122.87
+  },
+  "delivery_charges_kw_kva": {
+    "Prod/Trans Dmd Chrg": 74.09,
+    "Local Delivery Demand Chrg": 131.13,
+    "Local Delivery Improvements": 32.44,
+    "Prod/Trans CTA Dmd Chrg": 1.96,
+    "FMCC Charge Peak": 146.17,
+    "FMCC Charge Off-Peak": 86.08,
+    "Comb Public Benefit Chrg": 122.87
+  },
+  "sales_tax": 642.99,
+  "late_fees": 125.18,
+  "fixed_fees": 243.0,
+  "misc": null
+}

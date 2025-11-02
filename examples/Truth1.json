@@ -1,0 +1,47 @@
+{   
+    "balance_forward":12517.75,
+    "billing_period_start_date":"06/03/2024",
+    "billing_period_end_date":"07/03/2024",
+    "kwh_usage_on_peak":18432.0,
+    "kwh_usage_off_peak":48384.0,
+    "kwh_usage_total":66816,
+    "total_demand_use_kw":150.90,
+    "kva_usage":null,
+    "power_factor":null,
+    "supply_charges_kwh":{
+        "Supply (06/03/24-06/30/24)": 8376.72,
+        "Supply (06/30/24-07/03/24)": 930.75
+    },
+    "supply_charges_kw_kva":null,
+    "delivery_charges_kwh":{
+        "Transmission Peak (06/03/24-06/30/24)":622.91,
+        "Transmission Off-Peak (06/03/24-06/30/24)":366.65,
+        "Revenue Decoupling Peak (06/03/24-06/30/24)":13.27,
+        "Revenue Decoupling Off-Peak (06/03/24-06/30/24)":34.84,
+        "FMCC Charge Peak (06/03/24-06/30/24)":98.87,
+        "FMCC Charge Off-Peak (06/03/24-06/30/24)":57.92,
+        "Comb Public Benefit Chrg (06/03/24-06/30/24)":438.98,
+        "Tranmission Peak (06/30/24-07/03/24)":57.23,
+        "Tranmission Off-Peak (06/30/24-07/03/24)":33.68,
+        "Revenue Decoupling Peak (06/30/24-07/03/24)":3.59,
+        "Revenue Decoupling Off-Peak (06/30/24-07/03/24)":9.43,
+        "FMCC Charge Peak (06/30/24-07/03/24)":146.17,
+        "FMCC Charge Off-Peak (06/30/24-07/03/24)":86.08,
+        "Comb Public Benefit Chrg (06/30/24-07/03/24)":122.87
+    },
+    "delivery_charges_kw_kva":{
+        "Prod/Trans Dmd Chrg (06/03/24-06/30/24)":806.71,
+        "Local Delivery Improvements (06/03/24-06/30/24)":180.63,
+        "Local Delivery Demand Chrg (06/03/24-06/30/24)":1180.19,
+        "Prod/Trans CTA Dmd Chrg (06/03/24-06/30/24)":-21.73,
+        "Prod/Trans Dmd Chrg (06/30/24-07/03/24)":74.09,
+        "Local Delivery Improvements (06/30/24-07/03/24)":32.44,
+        "Local Delivery Demand Chrg (06/30/24-07/03/24)4":131.13,
+        "Prod/Trans CTA Dmd Chrg (06/30/24-07/03/24)":1.96
+    },
+    "sales_tax":882.99,
+    "late_fees":125.18,
+    "fixed_fees":270.00,
+    "misc":null,
+    "total_current_charges":15063.55
+}
