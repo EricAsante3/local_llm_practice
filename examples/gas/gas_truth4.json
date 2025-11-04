@@ -1,0 +1,23 @@
+{
+    "balance_forward":5930.54,
+    "billing_period_start_date":"02/29/2024",
+    "billing_period_end_date":"03/31/2024",
+    "unit":"ccf",
+    "monthly_use":15285.86,
+    "charges":{
+        "customer_service_charge":257.97,
+        "daily_demand_charge":22.00,
+        "Delivery Chrg":424.43,
+        "Revenue Adjustment Mechanism":333.40,
+        "Demand Chrg":2031.53,
+        "SER Mechanism":194.05,
+        "Gas System Improvement Charge":991.27,
+        "Conserv Adj Mechanism":684.66,
+        "Transportation Services Chrg":642.99,
+        "Transportation Svc Demand Chrg":267.42
+    },
+    "sales_tax":null,
+    "late_fees":59.31,
+    "misc":null,
+    "total_current_charges":5909.03
+}

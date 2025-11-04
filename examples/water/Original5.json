@@ -1,0 +1,17 @@
+{
+    "balance_foward": 2292.98,
+    "billing_period_start_date": "08/23/24",
+    "billing_period_end_date": "09/18/24",
+    "unit": "gallons",
+    "usage": 296000,
+    "costs_supply": 1642.80,
+    "costs_sewer": null,
+    "taxes": null,
+    "late_fees": null,
+    "other_charges": {
+        "Daily Basic Service": 36.11,
+        "WICA": -2.18,
+        "WRA": -35.43
+    },
+    "total_current_charges": 1641.30
+}

@@ -2,7 +2,7 @@ from localLLM import extract_document_to_json
 import json
 import os
 
-file_path = os.path.expanduser("~/Documents/Projects/local_llm/local_llm_practice")
+file_path = os.path.expanduser("~/local_llm/local_llm_practice")
 
 with open(file_path + "/examples/Original1.txt", "r", encoding="utf-8") as f:
     text = f.read()
@@ -12,7 +12,6 @@ def write_to_file(filename, content):
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(content)
     print(f"Output written to: {filename}")
-
 
 
 def main():

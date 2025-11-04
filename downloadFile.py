@@ -5,7 +5,7 @@ import requests
 from tqdm import tqdm
 
 model_path = hf_hub_download(
-    repo_id="TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-     filename="mistral-7b-instruct-v0.2.Q4_K_M.gguf",
+    repo_id="mradermacher/NuExtract-2.0-8B-GGUF",
+    filename="NuExtract-2.0-8B.IQ4_XS.gguf",
     local_dir="./models"
 )

@@ -1,0 +1,18 @@
+{
+    "balance_forward":1546.95,
+    "billing_period_start_date":"05/31/2024",
+    "billing_period_end_date":"06/30/2024",
+    "unit":"ccf",
+    "monthly_use":0,
+    "charges":{
+        "customer_service_charge":257.97,
+        "daily_demand_charge":22.00,
+        "Demand Chrg":1049.03,
+        "SER Mechanism":67.28,
+        "Transportation Svc Demand Chrg":138.09
+    },
+    "sales_tax":null,
+    "late_fees":null,
+    "misc":null,
+    "total_current_charges":1534.37
+}

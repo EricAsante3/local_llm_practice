@@ -1,7 +1,7 @@
 from llama_cpp import Llama
 import json
 import os
-file_path = os.path.expanduser("~/Documents/Projects/local_llm/local_llm_practice")
+file_path = os.path.expanduser("~/local_llm/local_llm_practice")
 
 base_path = os.path.join("/media", "eric", "GASSS")
 model_file = os.path.join(base_path, "models", "NuExtract-2.0-8B-Q8_0.gguf")
